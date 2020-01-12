@@ -12,7 +12,7 @@ public class Cthprogram {
 		d=5
         //menentukan rumus
         kali=a*b*d;
-
+		bagi=a/c;
         //Cetak nilai 
         System.out.println("kali: "+kali);
 
