@@ -9,8 +9,9 @@ public class Cthprogram {
         a=10;
         b=6;  
         c=23;
+		d=5
         //menentukan rumus
-        kali=a*b;
+        kali=a*b*d;
 
         //Cetak nilai 
         System.out.println("kali: "+kali);
